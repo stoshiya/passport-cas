@@ -1,0 +1,43 @@
+{
+  "name": "passport-cas",
+  "version": "0.0.1",
+  "description": "CAS authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "cas",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stoshiya/passport-cas.git"
+  },
+  "bugs": {
+    "url": "http://github.com/stoshiya/passport-cas/issues"
+  },
+  "author": {
+    "name": "Toshiya SAITOH",
+    "email": "stoshiya@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-cas",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/stoshiya/passport-cas",
+  "_id": "passport-cas@0.0.1",
+  "_from": "https://github.com/stoshiya/passport-github/tarball/master",
+  "_resolved": "https://github.com/stoshiya/passport-github/tarball/master"
+}
